@@ -28,7 +28,7 @@ Chạy lệnh sau để khởi động project:
 npx expo start
 ```
 
-về phía pc thì phải cài python và cài các thư viện rồi chạy script.py
+Về phía pc thì phải cài python và cài các thư viện rồi chạy script.py để có thể mở kết nối cho điện thoại
 
 ## Link video demo
 
