@@ -33,3 +33,4 @@ Về phía pc thì phải cài python và cài các thư viện rồi chạy scr
 ## Hình ảnh minh họa hệ thống
 https://www.figma.com/design/QzoYPSa86c6lXaHIWurBjY/Untitled?node-id=0-1&t=hUkLRaJfWSTBUFXg-1
 ## Link video demo
+https://drive.google.com/file/d/1Bz3e-nP28D_KHjZ00aOEIDRwT1n2QRWC/view?usp=sharing
