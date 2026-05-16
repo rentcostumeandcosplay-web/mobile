@@ -28,5 +28,5 @@ Chạy lệnh sau để khởi động project:
 npx expo start
 ```
 
-Hình ảnh minh họa hệ thống
-Link video demo
+## Link video demo
+
