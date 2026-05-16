@@ -17,10 +17,14 @@
 
 ## 🚀 Hướng dẫn cài đặt và chạy project
 
-### 1. Cài đặt các thư viện phụ thuộc (Dependencies)
+### Cài đặt các thư viện phụ thuộc (Dependencies)
 Chạy lệnh sau trong thư mục gốc của project:
 ```bash
 npm i
+
+Chạy lệnh sau để khởi động project:
+```bash
+npx expo start
 
 Hình ảnh minh họa hệ thống
 Link video demo
