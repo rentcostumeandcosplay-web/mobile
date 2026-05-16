@@ -26,6 +26,7 @@ npm i
 Chạy lệnh sau để khởi động project:
 ```bash
 npx expo start
+```
 
 Hình ảnh minh họa hệ thống
 Link video demo
