@@ -30,5 +30,6 @@ npx expo start
 
 Về phía pc thì phải cài python và cài các thư viện rồi chạy script.py để có thể mở kết nối cho điện thoại
 
+## Hình ảnh minh họa hệ thống
+https://www.figma.com/design/QzoYPSa86c6lXaHIWurBjY/Untitled?node-id=0-1&t=hUkLRaJfWSTBUFXg-1
 ## Link video demo
-
