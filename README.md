@@ -1,12 +1,26 @@
-Tên đề tài: Xây dựng ứng dụng di động điều khiển máy tính từ xa qua điện thoại
-Giới thiệu website/hệ thống: 
-Danh sách, MSSV từng thành viên: Nguyễn Hiếu Kiên - 23810310022, Phạm Gia Đức - 23810310020, Nguyễn Thành Duy - 20810310317
-Phân công nhiệm vụ cụ thể: 
-Nguyễn Hiếu Kiên - Viết báo cáo chính, hỗ trợ code
-Nguyễn Thành Duy - Code chính, làm demo và hỗ trợ viết báo cáo
-Phạm Gia Đức - Viết báo cáo chính, vẽ layout, hỗ trợ code và demo
-Công nghệ sử dụng: react native
-Hướng dẫn cài đặt: run command: npm i
-Hướng dẫn chạy project: run command: npx expo start
+# Tên đề tài: Xây dựng ứng dụng di động điều khiển máy tính từ xa qua điện thoại
+
+## 👥 Thành viên nhóm & Phân công nhiệm vụ
+
+| MSSV | Họ và Tên | Nhiệm vụ cụ thể |
+| :--- | :--- | :--- |
+| **23810310022** | Nguyễn Hiếu Kiên | Viết báo cáo chính, hỗ trợ code |
+| **20810310317** | Nguyễn Thành Duy | Code chính, làm demo và hỗ trợ viết báo cáo |
+| **23810310020** | Phạm Gia Đức | Viết báo cáo chính, vẽ layout, hỗ trợ code và demo |
+
+---
+
+## 🛠️ Công nghệ sử dụng
+* **React Native** (Expo)
+
+---
+
+## 🚀 Hướng dẫn cài đặt và chạy project
+
+### 1. Cài đặt các thư viện phụ thuộc (Dependencies)
+Chạy lệnh sau trong thư mục gốc của project:
+```bash
+npm i
+
 Hình ảnh minh họa hệ thống
 Link video demo
