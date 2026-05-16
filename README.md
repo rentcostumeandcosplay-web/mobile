@@ -21,7 +21,8 @@
 Chạy lệnh sau trong thư mục gốc của project:
 ```bash
 npm i
-`
+```
+
 Chạy lệnh sau để khởi động project:
 ```bash
 npx expo start
